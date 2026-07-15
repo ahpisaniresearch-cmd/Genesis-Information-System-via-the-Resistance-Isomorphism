@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+title: Genesis Information System via the Resistance Isomorphism
+message: >-
+  If you use, adapt, reference, or build upon this work - in research, in other
+  software, as reference or training material for AI systems, or in inventions or
+  patents - please cite it as below, crediting BOTH the originating author and the
+  AI collaborator.
+type: software
+authors:
+  - given-names: Alexander
+    family-names: Pisani
+    email: a.h.pisani.research@gmail.com
+    city: Blue Mountains
+    region: New South Wales
+    country: AU
+    website: 'mailto:a.h.pisani.research@gmail.com'
+  - name: Claude (Anthropic)
+    website: 'https://www.anthropic.com'
+abstract: >-
+  An original research programme investigating whether number theory - and
+  possibly mathematics more broadly - emerges as the erasure-shadow of a
+  quantity-free foundational information system (the Genesis Information System),
+  posited behind an epistemic barrier that is unfalsifiable by construction. The
+  central bridge is the Resistance Isomorphism, the logarithm Omega(1/n) = ln n,
+  read as the Landauer erasure cost of an integer, which unifies number theory,
+  Boolean logic, circuit topology, and information theory as one algebraic
+  structure. The programme develops the formal consequences of the posit under a
+  strict explore-then-criticise discipline, grading every claim as Fact, Reading,
+  or Lead. Originating theory and axioms are Alexander Pisani's; formalisation,
+  connective mathematics, and computation were developed jointly with Claude
+  (Anthropic). No claim is made on the Riemann Hypothesis.
+keywords:
+  - resistance isomorphism
+  - Landauer erasure
+  - information theory
+  - number theory
+  - logarithmic isomorphism
+  - divisibility lattice
+  - prime lattice
+  - primon gas
+  - Weil criterion
+  - Riemann zeta function
+  - reversible computation
+  - proof theory
+  - probe (Axiom 5)
+  - Madness in the Probe
+license: CC-BY-4.0
+date-released: '2026-07-08'
+url: 'https://github.com/ahpisaniresearch-cmd/Genesis-Information-System-via-the-Resistance-Isomorphism'
+repository-code: 'https://github.com/ahpisaniresearch-cmd/Genesis-Information-System-via-the-Resistance-Isomorphism'
