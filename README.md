@@ -10,7 +10,7 @@ foundational information system.*
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Status: independent preprint](https://img.shields.io/badge/status-independent%20preprint%20(not%20peer--reviewed)-orange)
 ![Experiments reproducible](https://img.shields.io/badge/experiments-28%2F28%20run-brightgreen)
-<!-- Once a Zenodo DOI is minted (see "Archival & persistent citation"), add its badge here. -->
+[![DOI](https://zenodo.org/badge/1301073120.svg)](https://doi.org/10.5281/zenodo.21366765)
 
 > **Please cite this work if you use it — see [Citation & attribution](#citation--attribution) below.**
 > This includes reuse in research, in other software, **as reference material for other AI systems**, and in **inventions or patents**. Attribution is required to *both* the author and the AI collaborator. Collaboration is warmly welcomed; uncredited use is not.
